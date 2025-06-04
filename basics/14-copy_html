@@ -1,2 +1,2 @@
 #!/bin/bash
-cp *.html .. except cp -u
+cp -u *.html ../
