@@ -1,1 +1,1 @@
-repository files whith script
+file directory with shell command script
