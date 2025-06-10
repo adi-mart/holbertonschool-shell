@@ -1,0 +1,16 @@
+total 56
+drwxrwxrwx+ 2 codespace codespace 4096 Jun 10 22:08 .
+drwxrwxrwx+ 6 codespace root      4096 Jun 10 08:46 ..
+-rwxrwxrwx  1 codespace codespace   32 Jun 10 08:58 0-hello_world
+-rwxrwxrwx  1 codespace codespace   28 Jun 10 12:20 1-confused_smiley
+-rwxrwxrwx  1 codespace codespace   28 Jun 10 12:23 2-hellofile
+-rwxrwxrwx  1 codespace codespace   39 Jun 10 12:31 3-twofiles
+-rwxrwxrwx  1 codespace codespace   35 Jun 10 12:42 4-lastlines
+-rwxrwxrwx  1 codespace codespace   29 Jun 10 12:49 5-firstlines
+-rwxrwxrwx  1 codespace codespace   40 Jun 10 13:40 6-third_line
+-rwxrwxrwx  1 codespace codespace   90 Jun 10 22:00 7-file
+-rwxrwxrwx  1 codespace codespace   37 Jun 10 22:04 8-cwd_state
+-rw-rw-rw-  1 codespace codespace  130 Jun 10 08:50 README.md
+-rw-rw-rw-  1 codespace codespace   12 Jun 10 21:54 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rwxrwxrwx  1 codespace codespace   55 Jun 10 12:59 iacta
+-rw-rw-rw-  1 codespace codespace    0 Jun 10 22:08 ls_cwd_content
